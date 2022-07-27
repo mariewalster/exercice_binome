@@ -1,0 +1,4 @@
+bacon
+poulet
+avocat
+salade
